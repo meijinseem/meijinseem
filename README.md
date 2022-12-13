@@ -20,7 +20,7 @@
 - 💬 ask me about anything, i am happy to help
 - 🤝 experience with e-grocery, fashion and other e-commerce projects
 
-<h3 align="center"><a href="https://www.codewars.com/users/meijinseem">Codewars<a> as meditation :D </h3>
+<h3 align="center"><a href="https://www.codewars.com/users/meijinseem">Codewars<a> as meditation, road to 5 kyu :D </h3>
 <p align='center'>
 <img src='https://www.codewars.com/users/meijinseem/badges/large' width='400'>
 </p>
