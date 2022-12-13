@@ -18,10 +18,12 @@
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"></code>
 </p>
 
-- 💼 any freelance work? do reach, [email](meijin2309@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 any work? do reach, [telegram](https://t.me/meijinseem) :)
+- 💬 ask me about anything, i am happy to help
+- 🤝 experience with e-grocery, fashion and other e-commerce projects
 
 <h3 align="center">Check out my <a href="https://www.codewars.com/users/meijinseem">Codewars<a> </h3>
 <p align='center'>
 <img src='https://www.codewars.com/users/meijinseem/badges/large' width='400'>
 </p>
+  
