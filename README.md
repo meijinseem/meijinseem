@@ -16,7 +16,7 @@
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/628/PNG/512/sql-file-black-rounded-rectangular-interface-symbol_icon-icons.com_57633.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/113060581/207437335-bd2b51d9-ead6-43d8-aed2-01e945a90e01.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/113060581/207437335-bd2b51d9-ead6-43d8-aed2-01e945a90e01.png"></code>
   
 
 </p>
