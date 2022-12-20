@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Andrey 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-
-  
-<p align='center'>
+ <p align='center'>
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 </p>
 <h3 align="center">I have enough experience to analyze digital ads and take the right ones solution for any type business.</h3>
